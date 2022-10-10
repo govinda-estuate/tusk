@@ -9,3 +9,6 @@ maggi
 
 thankyou
 hello
+
+Beans
+pizza
